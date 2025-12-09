@@ -206,7 +206,7 @@
             </div>
 
             <div class="footer-bottom">
-              <p>&copy; {{ new Date().getFullYear() }} 思迈尔导航 -  <a href="https://library.smile-reading.com" target="_blank" rel="noopener noreferrer">Smile Reading</a> ©</p>
+              <p>&copy; {{ new Date().getFullYear() }} 思迈尔导航 -  <a href="https://library.smile-reading.com" target="_blank" rel="noopener noreferrer">Smile Nav</a> ©</p>
               <p class="footer-tech">基于 Vue.js 构建 | <a href="https://library.smile-reading.com" target="_blank" rel="noopener noreferrer">思迈尔阅读馆</a></p>
             </div>
           </footer>
