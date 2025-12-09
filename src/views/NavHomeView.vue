@@ -192,7 +192,7 @@
 
               <div class="footer-links">
                 <a
-                  href="https://github.com/maodeyu180/mao_nav"
+                  href="https://library.smile-reading.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="footer-link"
@@ -413,7 +413,7 @@ const scrollToCategoryMobile = (categoryId) => {
 
 // 打开GitHub项目页面
 const openGitHub = () => {
-  window.open('https://github.com/maodeyu180/mao_nav', '_blank')
+  window.open('https://librar.smile-reading.com', '_blank')
 }
 
 // 组件挂载时获取数据
