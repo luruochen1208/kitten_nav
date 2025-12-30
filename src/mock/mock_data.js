@@ -7,39 +7,25 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
-        },
-        {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
+          "id": "site-1767062246547",
+          "name": "剑桥少儿考试",
+          "url": "https://cyle.neea.edu.cn/",
+          "description": "剑桥少儿英语考试国内官网，可查询、可报名",
+          "icon": "https://cdn.freebiesupply.com/logos/large/2x/university-of-cambridge-2-logo-png-transparent.png"
         },
         {
           "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
+          "name": "KET / PET 考试",
+          "url": "https://kidsbox.dpdns.org/?page_id=13",
+          "description": "北京地区KET/PET考试中心信息",
+          "icon": "https://cdn.freebiesupply.com/logos/large/2x/university-of-cambridge-2-logo-png-transparent.png"
         },
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
+          "id": "linux-do",
+          "name": "剑桥英语量表详解",
+          "url": "https://www.cambridgeenglish.org/Images/210434-converting-practice-test-scores-to-cambridge-english-scale-scores.pdf",
+          "description": "KET 及以上级别考试成绩对应级别解读",
+          "icon": "https://cdn.freebiesupply.com/logos/large/2x/university-of-cambridge-2-logo-png-transparent.png"
         }
       ]
     },
@@ -481,7 +467,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "思迈尔阅读馆导航",
-  "_fileSha": "e8f22ffe7c1adc7cd48ce2884246491dece50cb3",
-  "search": "baidu"
+  "title": "思迈尔阅读馆导航"
 }
