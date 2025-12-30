@@ -481,5 +481,7 @@ export const mockData = {
       ]
     }
   ],
-  "title": "思迈尔阅读馆导航"
+  "title": "思迈尔阅读馆导航",
+  "_fileSha": "e8f22ffe7c1adc7cd48ce2884246491dece50cb3",
+  "search": "baidu"
 }
