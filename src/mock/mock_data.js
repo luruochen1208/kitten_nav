@@ -2,8 +2,8 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "我的常用",
-      "icon": "💥",
+      "name": "剑桥考试",
+      "icon": "🇬🇧",
       "order": 0,
       "sites": [
         {
@@ -45,8 +45,8 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
-      "name": "AI智能",
-      "icon": "🤖",
+      "name": "语法学习",
+      "icon": "🎯",
       "order": 1,
       "sites": [
         {
@@ -88,8 +88,8 @@ export const mockData = {
     },
     {
       "id": "cloud",
-      "name": "云服务",
-      "icon": "☁️",
+      "name": "词汇积累",
+      "icon": "📗",
       "order": 2,
       "sites": [
         {
@@ -145,8 +145,8 @@ export const mockData = {
     },
     {
       "id": "dev-tools",
-      "name": "开发工具",
-      "icon": "🛠️",
+      "name": "阅读为王",
+      "icon": "📖",
       "order": 3,
       "sites": [
         {
@@ -195,8 +195,8 @@ export const mockData = {
     },
     {
       "id": "community",
-      "name": "社区论坛",
-      "icon": "👥",
+      "name": "写作进阶",
+      "icon": "📝",
       "order": 6,
       "sites": [
         {
@@ -481,7 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "思迈尔阅读馆导航",
-  "_fileSha": "6fa54f5b29a790e28244fe8d9f56a787714a79a5",
-  "search": "baidu"
+  "title": "思迈尔阅读馆导航"
 }
