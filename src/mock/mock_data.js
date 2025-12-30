@@ -238,8 +238,8 @@ export const mockData = {
     },
     {
       "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
+      "name": "听力口语",
+      "icon": "🎧",
       "order": 4,
       "sites": [
         {
@@ -274,8 +274,8 @@ export const mockData = {
     },
     {
       "id": "finance",
-      "name": "财经投资",
-      "icon": "💰",
+      "name": "综合资源",
+      "icon": "📚",
       "order": 5,
       "sites": [
         {
@@ -338,8 +338,8 @@ export const mockData = {
     },
     {
       "id": "learning",
-      "name": "学习资源",
-      "icon": "📚",
+      "name": "在线工具",
+      "icon": "🧰",
       "order": 6,
       "sites": [
         {
@@ -374,8 +374,8 @@ export const mockData = {
     },
     {
       "id": "tools",
-      "name": "在线工具",
-      "icon": "⚙️",
+      "name": "常用下载",
+      "icon": "📥",
       "order": 7,
       "sites": [
         {
@@ -410,8 +410,8 @@ export const mockData = {
     },
     {
       "id": "entertainment",
-      "name": "娱乐休闲",
-      "icon": "🎮",
+      "name": "影音娱乐",
+      "icon": "🎼",
       "order": 8,
       "sites": [
         {
