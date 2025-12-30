@@ -446,8 +446,8 @@ export const mockData = {
     },
     {
       "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
+      "name": "思迈尔",
+      "icon": "🏠",
       "order": 9,
       "sites": [
         {
@@ -481,7 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "思迈尔阅读馆导航",
-  "_fileSha": "061661f05b7aa741907ec428cad9a0af57da8d5a",
-  "search": "baidu"
+  "title": "思迈尔阅读馆导航"
 }
